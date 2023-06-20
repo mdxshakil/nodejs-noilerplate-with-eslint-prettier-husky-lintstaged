@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate-with-eslint-prettier-husky-lintstaged\\logs\\winston\\errors\\.3dfe97a3d9b8b62a23e47c4c831ec07c3db43fff-audit.json",
-    "files": [
-        {
-            "date": 1687265433576,
-            "name": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate-with-eslint-prettier-husky-lintstaged\\logs\\winston\\errors\\phu-2023-20-06-18-error.log",
-            "hash": "4fbaf999a8510284d77e870b3075921d0b145829ae5f0039889fd5cf553e01a0"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate-with-eslint-prettier-husky-lintstaged\\logs\\winston\\errors\\.3dfe97a3d9b8b62a23e47c4c831ec07c3db43fff-audit.json",
+  "files": [
+    {
+      "date": 1687265433576,
+      "name": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate-with-eslint-prettier-husky-lintstaged\\logs\\winston\\errors\\phu-2023-20-06-18-error.log",
+      "hash": "4fbaf999a8510284d77e870b3075921d0b145829ae5f0039889fd5cf553e01a0"
+    }
+  ],
+  "hashType": "sha256"
 }
