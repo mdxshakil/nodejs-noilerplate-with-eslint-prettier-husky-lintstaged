@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate-with-eslint-prettier-husky-lintstaged\\logs\\winston\\successes\\.59224470cb17cef92b771b784614a403b50dfa58-audit.json",
+    "files": [
+        {
+            "date": 1687265433566,
+            "name": "E:\\Do It Now\\THINK-IN-LEVEL2\\Milestone-3-BACKEND\\UNIVERSITY-MANAGEMENT\\nodejs-boilerplate-with-eslint-prettier-husky-lintstaged\\logs\\winston\\successes\\phu-2023-20-06-18-success.log",
+            "hash": "00a55ab252e26be7dade9b951a4276eb4806ac45145ad59992c3e343867f08a5"
+        }
+    ],
+    "hashType": "sha256"
+}

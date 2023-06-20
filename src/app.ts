@@ -1,7 +1,7 @@
-import cors from "cors";
-import express, { Request, Response } from "express";
-import globalErrorHandler from "./app/middlewares/globalErrorHandler";
-import invalidRouteHandler from "./app/middlewares/invalidRouteHandler";
+import cors from 'cors';
+import express, { Request, Response } from 'express';
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
+import invalidRouteHandler from './app/middlewares/invalidRouteHandler';
 const app = express();
 
 // middlewares
@@ -12,8 +12,8 @@ app.use(cors());
 // Application routes
 // app.use('/api/v1', moduleRoutes);
 
-app.get("/", (req: Request, res: Response) => {
-  res.send("Hello World!");
+app.get('/', (req: Request, res: Response) => {
+  res.send('Hello World!');
 });
 
 //Invalid route handler
